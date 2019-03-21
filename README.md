@@ -1,2 +1,29 @@
-# ToolsAndLearning
-A collection of various tools and neat sources for learning and developing.
+<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+
+# Knowledge Storage
+
+A little collection of various tools and sources I've stumbled upon trying to increase my knowledge.
+
+## API's
+
+- [Unsplash Developers](https://unsplash.com/developers) - The Largest Open Collection of High-quality Photos
+
+- [faker.js](https://github.com/marak/Faker.js/) - generate massive amounts of fake data in the browser and node.js
+
+<br />
+
+## Styling
+
+- [Semantic UI](https://semantic-ui.com/) - User Interfaces
+
+- [React Semantic UI](https://react.semantic-ui.com/) - The official Semantic-UI-React integration.
+
+- [Styled Components](https://www.styled-components.com/) - A new way of using CSS in modern JavaScript
+
+- **COURSE**: [CSS Grid](https://cssgrid.io/) - By Wes Bos.
+
+<br />
+
+## React
+
+- [React Router](https://reacttraining.com/react-router/web/guides/quick-start) - Declarative Routing
