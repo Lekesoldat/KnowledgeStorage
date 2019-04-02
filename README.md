@@ -18,9 +18,10 @@ A little collection of various tools and sources I've stumbled upon trying to in
 
 - [Semantic UI](https://semantic-ui.com/) - User Interfaces
 
-- [React Semantic UI](https://react.semantic-ui.com/) - The official Semantic-UI-React integration.
+- [React Semantic UI](https://react.semantic-ui.com/) - The official Semantic-UI-React integration
 
 - [Styled Components](https://www.styled-components.com/) - A new way of using CSS in modern JavaScript
+- [uiGradients](https://uigradients.com) - Beautiful colored gradients
 
 - **COURSE**: [CSS Grid](https://cssgrid.io/) - By Wes Bos
 
