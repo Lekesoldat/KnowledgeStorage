@@ -22,7 +22,13 @@ A little collection of various tools and sources I've stumbled upon trying to in
 
 - [Styled Components](https://www.styled-components.com/) - A new way of using CSS in modern JavaScript
 
-- **COURSE**: [CSS Grid](https://cssgrid.io/) - By Wes Bos.
+- **COURSE**: [CSS Grid](https://cssgrid.io/) - By Wes Bos
+
+<br />
+
+## Design
+- [Dribbble](https://dribbble.com) - Discover Great Designs
+- [CodeMyUI](https://codemyui.com/) - Web Design & UI Inspiration with Code Snippets
 
 <br />
 
