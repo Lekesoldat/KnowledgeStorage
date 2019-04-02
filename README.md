@@ -24,6 +24,7 @@ A little collection of various tools and sources I've stumbled upon trying to in
 - [uiGradients](https://uigradients.com) - Beautiful colored gradients
 
 - **COURSE**: [CSS Grid](https://cssgrid.io/) - By Wes Bos
+- [Animate.css](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
 
 <br />
 
