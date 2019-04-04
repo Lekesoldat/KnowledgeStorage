@@ -14,22 +14,22 @@ A little collection of various tools and sources I've stumbled upon trying to in
 
 <br />
 
-## Styling
+## Styling and Design
 
 - [Semantic UI](https://semantic-ui.com/) - User Interfaces
 
 - [React Semantic UI](https://react.semantic-ui.com/) - The official Semantic-UI-React integration
 
 - [Styled Components](https://www.styled-components.com/) - A new way of using CSS in modern JavaScript
+
 - [uiGradients](https://uigradients.com) - Beautiful colored gradients
 
 - **COURSE**: [CSS Grid](https://cssgrid.io/) - By Wes Bos
+
 - [Animate.css](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
 
-<br />
-
-## Design
 - [Dribbble](https://dribbble.com) - Discover Great Designs
+
 - [CodeMyUI](https://codemyui.com/) - Web Design & UI Inspiration with Code Snippets
 
 <br />
